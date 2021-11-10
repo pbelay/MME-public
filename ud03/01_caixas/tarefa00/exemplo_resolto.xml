@@ -1,0 +1,747 @@
+<?xml version="1.0"?>
+<root ptr="0x55b9c20a92e0" id="0" symbol="11SwRootFrame" lower="1">
+ <sfxViewShells>
+  <SwView>
+   <SfxViewShell ptr="0x55b9c2091f30" id="0"/>
+   <SwCursorShell>
+    <SwViewShell/>
+    <m_pCurrentCursor>
+     <SwPaM>
+      <point>
+       <SwPosition nNode="22" nContent="11"/>
+      </point>
+     </SwPaM>
+    </m_pCurrentCursor>
+   </SwCursorShell>
+  </SwView>
+ </sfxViewShells>
+ <infos>
+  <bounds left="284" top="284" width="14107" height="16838" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+  <prtBounds left="0" top="0" width="14107" height="16838"/>
+ </infos>
+ <page ptr="0x55b9c2098950" id="1" symbol="11SwPageFrame" upper="0" lower="2">
+  <page_status ValidFlyLayout="true" ValidFlyContent="true" ValidFlyInCnt="true" ValidLayout="false" ValidContent="false"/>
+  <infos>
+   <bounds left="2485" top="284" width="11906" height="16838" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+   <prtBounds left="1134" top="1134" width="9638" height="14570"/>
+  </infos>
+  <body ptr="0x55b9c20ab440" id="2" symbol="11SwBodyFrame" upper="1" lower="3">
+   <infos>
+    <bounds left="3619" top="1418" width="9638" height="14570" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+    <prtBounds left="0" top="0" width="9638" height="14570"/>
+   </infos>
+   <txt ptr="0x55b9c20ab630" id="3" symbol="11SwTextFrame" next="16" upper="2" txtNodeIndex="9" WritingMode="Horizontal">
+    <infos>
+     <bounds left="3619" top="1418" width="9638" height="464" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="140" width="9638" height="324"/>
+    </infos>
+Torre media    <Text nLength="11" nType="PortionType::Para" nHeight="324" nWidth="1593" Portion="Torre media"/>
+    <LineBreak nWidth="1593" Line="Torre media"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b9c4c7d170" id="16" symbol="11SwTextFrame" next="17" prev="3" upper="2" txtNodeIndex="10" WritingMode="Horizontal">
+    <infos>
+     <bounds left="3619" top="1882" width="9638" height="396" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="120" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <tab ptr="0x55b9c1c1a480" id="17" symbol="10SwTabFrame" next="15" prev="16" upper="2" lower="153">
+    <infos>
+     <bounds left="3619" top="2278" width="9638" height="10524" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="10514"/>
+    </infos>
+    <row ptr="0x55b9c300e5e0" id="153" symbol="10SwRowFrame" next="158" upper="17" lower="154">
+     <infos>
+      <bounds left="3619" top="2278" width="9638" height="396" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+      <prtBounds left="0" top="0" width="9638" height="396"/>
+     </infos>
+     <cell ptr="0x55b9c1b07720" id="154" symbol="11SwCellFrame" next="156" upper="153" lower="155" rowspan="1">
+      <infos>
+       <bounds left="3619" top="2278" width="4819" height="396" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="55" top="65" width="4709" height="276"/>
+      </infos>
+      <txt ptr="0x55b9c1a8e460" id="155" symbol="11SwTextFrame" upper="154" txtNodeIndex="13" WritingMode="Horizontal">
+       <infos>
+        <bounds left="3674" top="2343" width="4709" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="4709" height="276"/>
+       </infos>
+Económico       <Text nLength="9" nType="PortionType::Para" nHeight="276" nWidth="1133" Portion="Econ&#xF3;mico"/>
+       <LineBreak nWidth="1133" Line="Econ&#xF3;mico"/>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x55b9c1b14ea0" id="156" symbol="11SwCellFrame" prev="154" upper="153" lower="157" rowspan="1">
+      <infos>
+       <bounds left="8438" top="2278" width="4819" height="396" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="55" top="65" width="4709" height="276"/>
+      </infos>
+      <txt ptr="0x55b9c4c92f40" id="157" symbol="11SwTextFrame" upper="156" txtNodeIndex="16" WritingMode="Horizontal">
+       <infos>
+        <bounds left="8493" top="2343" width="4709" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="4709" height="276"/>
+       </infos>
+Caro       <Text nLength="4" nType="PortionType::Para" nHeight="276" nWidth="516" Portion="Caro"/>
+       <LineBreak nWidth="516" Line="Caro"/>
+       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x55b9c3237480" id="158" symbol="10SwRowFrame" next="163" prev="153" upper="17" lower="159">
+     <infos>
+      <bounds left="3619" top="2674" width="9638" height="396" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="false"/>
+      <prtBounds left="0" top="0" width="9638" height="396"/>
+     </infos>
+     <cell ptr="0x55b9c1a67120" id="159" symbol="11SwCellFrame" next="161" upper="158" lower="160" rowspan="1">
+      <infos>
+       <bounds left="3619" top="2674" width="4819" height="396" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="false"/>
+       <prtBounds left="55" top="65" width="4709" height="276"/>
+      </infos>
+      <txt ptr="0x55b9c1abdc60" id="160" symbol="11SwTextFrame" upper="159" txtNodeIndex="19" WritingMode="Horizontal">
+       <infos>
+        <bounds left="3674" top="2739" width="4709" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="4709" height="276"/>
+       </infos>
+Prezo: 90       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x55b9c1ae8ad0" id="161" symbol="11SwCellFrame" prev="159" upper="158" lower="162" rowspan="1">
+      <infos>
+       <bounds left="8438" top="2674" width="4819" height="396" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="false"/>
+       <prtBounds left="55" top="65" width="4709" height="276"/>
+      </infos>
+      <txt ptr="0x55b9c3313860" id="162" symbol="11SwTextFrame" upper="161" txtNodeIndex="22" WritingMode="Horizontal">
+       <infos>
+        <bounds left="8493" top="2739" width="4709" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="4709" height="276"/>
+       </infos>
+Prezo: 112€       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x55b9c328dfa0" id="163" symbol="10SwRowFrame" next="166" prev="158" upper="17" lower="164">
+     <infos>
+      <bounds left="3619" top="3070" width="9638" height="396" mbFixSize="false" mbValidPos="false" mbValidSize="true" mbValidPrtArea="true"/>
+      <prtBounds left="0" top="0" width="9638" height="396"/>
+     </infos>
+     <cell ptr="0x55b9c1b2a830" id="164" symbol="11SwCellFrame" upper="163" lower="165" rowspan="1">
+      <infos>
+       <bounds left="3619" top="3070" width="9638" height="396" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="55" top="65" width="9528" height="276"/>
+      </infos>
+      <txt ptr="0x55b9c1b1ba70" id="165" symbol="11SwTextFrame" upper="164" txtNodeIndex="25" WritingMode="Horizontal">
+       <infos>
+        <bounds left="3674" top="3135" width="9528" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="9528" height="276"/>
+       </infos>
+Fabricante:       <Text nLength="11" nType="PortionType::Para" nHeight="276" nWidth="1080" Portion="Fabricante:"/>
+       <LineBreak nWidth="1080" Line="Fabricante:"/>
+       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x55b9c3171610" id="166" symbol="10SwRowFrame" next="171" prev="163" upper="17" lower="167">
+     <infos>
+      <bounds left="3619" top="3466" width="9638" height="396" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+      <prtBounds left="0" top="0" width="9638" height="396"/>
+     </infos>
+     <cell ptr="0x55b9c1b66720" id="167" symbol="11SwCellFrame" next="169" upper="166" lower="168" rowspan="1">
+      <infos>
+       <bounds left="3619" top="3466" width="4819" height="396" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="55" top="65" width="4709" height="276"/>
+      </infos>
+      <txt ptr="0x55b9c31934e0" id="168" symbol="11SwTextFrame" upper="167" txtNodeIndex="28" WritingMode="Horizontal">
+       <infos>
+        <bounds left="3674" top="3531" width="4709" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="4709" height="276"/>
+       </infos>
+Antec P10 – Flux  (90€)       <Text nLength="23" nType="PortionType::Para" nHeight="276" nWidth="2327" Portion="Antec P10 &#x2013; Flux  (90&#x20AC;)"/>
+       <LineBreak nWidth="2327" Line="Antec P10 &#x2013; Flux  (90&#x20AC;)"/>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x55b9c1a66f20" id="169" symbol="11SwCellFrame" prev="167" upper="166" lower="170" rowspan="1">
+      <infos>
+       <bounds left="8438" top="3466" width="4819" height="396" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="55" top="65" width="4709" height="276"/>
+      </infos>
+      <txt ptr="0x55b9c4c93250" id="170" symbol="11SwTextFrame" upper="169" txtNodeIndex="31" WritingMode="Horizontal">
+       <infos>
+        <bounds left="8493" top="3531" width="4709" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="4709" height="276"/>
+       </infos>
+Antec – P120CRYSTAL( 112€)       <Text nLength="26" nType="PortionType::Para" nHeight="276" nWidth="3059" Portion="Antec &#x2013; P120CRYSTAL( 112&#x20AC;)"/>
+       <LineBreak nWidth="3059" Line="Antec &#x2013; P120CRYSTAL( 112&#x20AC;)"/>
+       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x55b9c1b36600" id="171" symbol="10SwRowFrame" next="174" prev="166" upper="17" lower="172">
+     <infos>
+      <bounds left="3619" top="3862" width="9638" height="396" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+      <prtBounds left="0" top="0" width="9638" height="396"/>
+     </infos>
+     <cell ptr="0x55b9c1b06a10" id="172" symbol="11SwCellFrame" upper="171" lower="173" rowspan="1">
+      <infos>
+       <bounds left="3619" top="3862" width="9638" height="396" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="55" top="65" width="9528" height="276"/>
+      </infos>
+      <txt ptr="0x55b9c3321ad0" id="173" symbol="11SwTextFrame" upper="172" txtNodeIndex="34" WritingMode="Horizontal">
+       <infos>
+        <bounds left="3674" top="3927" width="9528" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="9528" height="276"/>
+       </infos>
+URL       <Text nLength="3" nType="PortionType::Para" nHeight="276" nWidth="480" Portion="URL"/>
+       <LineBreak nWidth="480" Line="URL"/>
+       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x55b9c3302f00" id="174" symbol="10SwRowFrame" next="179" prev="171" upper="17" lower="175">
+     <infos>
+      <bounds left="3619" top="4258" width="9638" height="672" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+      <prtBounds left="0" top="0" width="9638" height="672"/>
+     </infos>
+     <cell ptr="0x55b9c4c8efa0" id="175" symbol="11SwCellFrame" next="177" upper="174" lower="176" rowspan="1">
+      <infos>
+       <bounds left="3619" top="4258" width="4819" height="672" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="55" top="65" width="4709" height="552"/>
+      </infos>
+      <txt ptr="0x55b9c4ca3db0" id="176" symbol="11SwTextFrame" upper="175" txtNodeIndex="37" WritingMode="Horizontal">
+       <infos>
+        <bounds left="3674" top="4323" width="4709" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="4709" height="276"/>
+       </infos>
+https://www.antec.com/product/case/p10-flux       <Text nLength="43" nType="PortionType::Para" nHeight="276" nWidth="4383" Portion="https://www.antec.com/product/case/p10-flux"/>
+       <LineBreak nWidth="4383" Line="https://www.antec.com/product/case/p10-flux"/>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x55b9c33310b0" id="177" symbol="11SwCellFrame" prev="175" upper="174" lower="178" rowspan="1">
+      <infos>
+       <bounds left="8438" top="4258" width="4819" height="672" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="55" top="65" width="4709" height="552"/>
+      </infos>
+      <txt ptr="0x55b9c1b1bcf0" id="178" symbol="11SwTextFrame" upper="177" txtNodeIndex="40" WritingMode="Horizontal">
+       <infos>
+        <bounds left="8493" top="4323" width="4709" height="552" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="4709" height="552"/>
+       </infos>
+https://www.antec.com/product/case/p120-crystal-white       <Text nLength="40" nType="PortionType::Para" nHeight="276" nWidth="4116" Portion="https://www.antec.com/product/case/p120-"/>
+       <LineBreak nWidth="4116" Line="https://www.antec.com/product/case/p120-"/>
+       <Text nLength="13" nType="PortionType::Lay" nHeight="276" nWidth="1253" Portion="crystal-white"/>
+       <LineBreak nWidth="1253" Line="crystal-white"/>
+       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x55b9c1b2cdb0" id="179" symbol="10SwRowFrame" next="182" prev="174" upper="17" lower="180">
+     <infos>
+      <bounds left="3619" top="4930" width="9638" height="396" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+      <prtBounds left="0" top="0" width="9638" height="396"/>
+     </infos>
+     <cell ptr="0x55b9c4c94f40" id="180" symbol="11SwCellFrame" upper="179" lower="181" rowspan="1">
+      <infos>
+       <bounds left="3619" top="4930" width="9638" height="396" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="55" top="65" width="9528" height="276"/>
+      </infos>
+      <txt ptr="0x55b9c1b4e1d0" id="181" symbol="11SwTextFrame" upper="180" txtNodeIndex="43" WritingMode="Horizontal">
+       <infos>
+        <bounds left="3674" top="4995" width="9528" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="9528" height="276"/>
+       </infos>
+Factor de forma soportado de placa base       <Text nLength="39" nType="PortionType::Para" nHeight="276" nWidth="3878" Portion="Factor de forma soportado de placa base"/>
+       <LineBreak nWidth="3878" Line="Factor de forma soportado de placa base"/>
+       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x55b9c4c70010" id="182" symbol="10SwRowFrame" next="232" prev="179" upper="17" lower="183">
+     <infos>
+      <bounds left="3619" top="5326" width="9638" height="396" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+      <prtBounds left="0" top="0" width="9638" height="396"/>
+     </infos>
+     <cell ptr="0x55b9c1b27700" id="183" symbol="11SwCellFrame" next="185" upper="182" lower="184" rowspan="1">
+      <infos>
+       <bounds left="3619" top="5326" width="4819" height="396" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="55" top="65" width="4709" height="276"/>
+      </infos>
+      <txt ptr="0x55b9c3281990" id="184" symbol="11SwTextFrame" upper="183" txtNodeIndex="46" WritingMode="Horizontal">
+       <infos>
+        <bounds left="3674" top="5391" width="4709" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="4709" height="276"/>
+       </infos>
+ATX , Micro-ATX, Mini-ITX       <Text nLength="25" nType="PortionType::Para" nHeight="276" nWidth="2847" Portion="ATX , Micro-ATX, Mini-ITX"/>
+       <LineBreak nWidth="2847" Line="ATX , Micro-ATX, Mini-ITX"/>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x55b9c1b29110" id="185" symbol="11SwCellFrame" prev="183" upper="182" lower="186" rowspan="1">
+      <infos>
+       <bounds left="8438" top="5326" width="4819" height="396" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="55" top="65" width="4709" height="276"/>
+      </infos>
+      <txt ptr="0x55b9c1b31c40" id="186" symbol="11SwTextFrame" upper="185" txtNodeIndex="49" WritingMode="Horizontal">
+       <infos>
+        <bounds left="8493" top="5391" width="4709" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="4709" height="276"/>
+       </infos>
+E-ATX, ATX, M-ATX, ITX       <Text nLength="22" nType="PortionType::Para" nHeight="276" nWidth="2667" Portion="E-ATX, ATX, M-ATX, ITX"/>
+       <LineBreak nWidth="2667" Line="E-ATX, ATX, M-ATX, ITX"/>
+       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x55b9c1a7bcd0" id="232" symbol="10SwRowFrame" next="202" prev="182" upper="17" lower="233">
+     <infos>
+      <bounds left="3619" top="5722" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+      <prtBounds left="0" top="0" width="9638" height="457"/>
+     </infos>
+     <cell ptr="0x55b9c316fd20" id="233" symbol="11SwCellFrame" upper="232" lower="234" rowspan="1">
+      <infos>
+       <bounds left="3619" top="5722" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="55" top="65" width="9528" height="337"/>
+      </infos>
+      <txt ptr="0x55b9c1ac0000" id="234" symbol="11SwTextFrame" upper="233" txtNodeIndex="52" WritingMode="Horizontal">
+       <infos>
+        <bounds left="3674" top="5787" width="9528" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="9528" height="276"/>
+       </infos>
+Fonte soportada       <Text nLength="15" nType="PortionType::Para" nHeight="276" nWidth="1540" Portion="Fonte soportada"/>
+       <LineBreak nWidth="1540" Line="Fonte soportada"/>
+       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x55b9c2be5300" id="202" symbol="10SwRowFrame" next="235" prev="232" upper="17" lower="203">
+     <infos>
+      <bounds left="3619" top="6179" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+      <prtBounds left="0" top="0" width="9638" height="457"/>
+     </infos>
+     <cell ptr="0x55b9c1add3a0" id="203" symbol="11SwCellFrame" next="205" upper="202" lower="204" rowspan="1">
+      <infos>
+       <bounds left="3619" top="6179" width="4819" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="55" top="65" width="4709" height="337"/>
+      </infos>
+      <txt ptr="0x55b9c301a1f0" id="204" symbol="11SwTextFrame" upper="203" txtNodeIndex="55" WritingMode="Horizontal">
+       <infos>
+        <bounds left="3674" top="6244" width="4709" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="4709" height="276"/>
+       </infos>
+Max PSU Length: 205 mm       <Text nLength="22" nType="PortionType::Para" nHeight="276" nWidth="2600" Portion="Max PSU Length: 205 mm"/>
+       <LineBreak nWidth="2600" Line="Max PSU Length: 205 mm"/>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x55b9c1afb940" id="205" symbol="11SwCellFrame" prev="203" upper="202" lower="206" rowspan="1">
+      <infos>
+       <bounds left="8438" top="6179" width="4819" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="55" top="65" width="4709" height="337"/>
+      </infos>
+      <txt ptr="0x55b9c1a42700" id="206" symbol="11SwTextFrame" upper="205" txtNodeIndex="58" WritingMode="Horizontal">
+       <infos>
+        <bounds left="8493" top="6244" width="4709" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="4709" height="276"/>
+       </infos>
+Max PSU Length*≤ 294 mm       <Text nLength="14" nType="PortionType::Text" nHeight="276" nWidth="1680" Portion="Max PSU Length"/>
+       <Text nLength="1" nType="PortionType::TabLeft" nHeight="276" nWidth="447" Portion="*"/>
+       <Text nLength="8" nType="PortionType::Text" nHeight="276" nWidth="985" Portion="&#x2264; 294 mm"/>
+       <LineBreak nWidth="3112" Line="Max PSU Length*&#x2264; 294 mm"/>
+       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x55b9c1b15580" id="235" symbol="10SwRowFrame" next="222" prev="202" upper="17" lower="236">
+     <infos>
+      <bounds left="3619" top="6636" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+      <prtBounds left="0" top="0" width="9638" height="457"/>
+     </infos>
+     <cell ptr="0x55b9c1ad5b00" id="236" symbol="11SwCellFrame" upper="235" lower="237" rowspan="1">
+      <infos>
+       <bounds left="3619" top="6636" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="55" top="65" width="9528" height="337"/>
+      </infos>
+      <txt ptr="0x55b9c3027780" id="237" symbol="11SwTextFrame" upper="236" txtNodeIndex="61" WritingMode="Horizontal">
+       <infos>
+        <bounds left="3674" top="6701" width="9528" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="9528" height="276"/>
+       </infos>
+Número máximo de discos SSD       <Text nLength="27" nType="PortionType::Para" nHeight="276" nWidth="3080" Portion="N&#xFA;mero m&#xE1;ximo de discos SSD"/>
+       <LineBreak nWidth="3080" Line="N&#xFA;mero m&#xE1;ximo de discos SSD"/>
+       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x55b9c1adef50" id="222" symbol="10SwRowFrame" next="278" prev="235" upper="17" lower="223">
+     <infos>
+      <bounds left="3619" top="7093" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+      <prtBounds left="0" top="0" width="9638" height="457"/>
+     </infos>
+     <cell ptr="0x55b9c1ad3e10" id="223" symbol="11SwCellFrame" next="225" upper="222" lower="224" rowspan="1">
+      <infos>
+       <bounds left="3619" top="7093" width="4819" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="55" top="65" width="4709" height="337"/>
+      </infos>
+      <txt ptr="0x55b9c1a7b400" id="224" symbol="11SwTextFrame" upper="223" txtNodeIndex="64" WritingMode="Horizontal">
+       <infos>
+        <bounds left="3674" top="7158" width="4709" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="4709" height="276"/>
+       </infos>
+3       <Text nLength="1" nType="PortionType::Para" nHeight="276" nWidth="120" Portion="3"/>
+       <LineBreak nWidth="120" Line="3"/>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x55b9c1b03780" id="225" symbol="11SwCellFrame" prev="223" upper="222" lower="226" rowspan="1">
+      <infos>
+       <bounds left="8438" top="7093" width="4819" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="55" top="65" width="4709" height="337"/>
+      </infos>
+      <txt ptr="0x55b9c1b0db20" id="226" symbol="11SwTextFrame" upper="225" txtNodeIndex="67" WritingMode="Horizontal">
+       <infos>
+        <bounds left="8493" top="7158" width="4709" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="4709" height="276"/>
+       </infos>
+3       <Text nLength="1" nType="PortionType::Para" nHeight="276" nWidth="120" Portion="3"/>
+       <LineBreak nWidth="120" Line="3"/>
+       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x55b9c4ccd410" id="278" symbol="10SwRowFrame" next="248" prev="222" upper="17" lower="279">
+     <infos>
+      <bounds left="3619" top="7550" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+      <prtBounds left="0" top="0" width="9638" height="457"/>
+     </infos>
+     <cell ptr="0x55b9c1aef930" id="279" symbol="11SwCellFrame" upper="278" lower="280" rowspan="1">
+      <infos>
+       <bounds left="3619" top="7550" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="55" top="65" width="9528" height="337"/>
+      </infos>
+      <txt ptr="0x55b9c1af8eb0" id="280" symbol="11SwTextFrame" upper="279" txtNodeIndex="70" WritingMode="Horizontal">
+       <infos>
+        <bounds left="3674" top="7615" width="9528" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="9528" height="276"/>
+       </infos>
+Número máximo de discos HD       <Text nLength="26" nType="PortionType::Para" nHeight="276" nWidth="2986" Portion="N&#xFA;mero m&#xE1;ximo de discos HD"/>
+       <LineBreak nWidth="2986" Line="N&#xFA;mero m&#xE1;ximo de discos HD"/>
+       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x55b9c1b04b10" id="248" symbol="10SwRowFrame" next="281" prev="278" upper="17" lower="249">
+     <infos>
+      <bounds left="3619" top="8007" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+      <prtBounds left="0" top="0" width="9638" height="457"/>
+     </infos>
+     <cell ptr="0x55b9c4cc3650" id="249" symbol="11SwCellFrame" next="251" upper="248" lower="250" rowspan="1">
+      <infos>
+       <bounds left="3619" top="8007" width="4819" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="55" top="65" width="4709" height="337"/>
+      </infos>
+      <txt ptr="0x55b9c1b08290" id="250" symbol="11SwTextFrame" upper="249" txtNodeIndex="73" WritingMode="Horizontal">
+       <infos>
+        <bounds left="3674" top="8072" width="4709" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="4709" height="276"/>
+       </infos>
+3/2       <Text nLength="3" nType="PortionType::Para" nHeight="276" nWidth="307" Portion="3/2"/>
+       <LineBreak nWidth="307" Line="3/2"/>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x55b9c4cc2190" id="251" symbol="11SwCellFrame" prev="249" upper="248" lower="252" rowspan="1">
+      <infos>
+       <bounds left="8438" top="8007" width="4819" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="55" top="65" width="4709" height="337"/>
+      </infos>
+      <txt ptr="0x55b9c1aff230" id="252" symbol="11SwTextFrame" upper="251" txtNodeIndex="76" WritingMode="Horizontal">
+       <infos>
+        <bounds left="8493" top="8072" width="4709" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="4709" height="276"/>
+       </infos>
+2/1       <Text nLength="3" nType="PortionType::Para" nHeight="276" nWidth="307" Portion="2/1"/>
+       <LineBreak nWidth="307" Line="2/1"/>
+       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x55b9c1b49e00" id="281" symbol="10SwRowFrame" next="268" prev="248" upper="17" lower="282">
+     <infos>
+      <bounds left="3619" top="8464" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+      <prtBounds left="0" top="0" width="9638" height="457"/>
+     </infos>
+     <cell ptr="0x55b9c4c9cf60" id="282" symbol="11SwCellFrame" upper="281" lower="283" rowspan="1">
+      <infos>
+       <bounds left="3619" top="8464" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="55" top="65" width="9528" height="337"/>
+      </infos>
+      <txt ptr="0x55b9c4d6fa40" id="283" symbol="11SwTextFrame" upper="282" txtNodeIndex="79" WritingMode="Horizontal">
+       <infos>
+        <bounds left="3674" top="8529" width="9528" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="9528" height="276"/>
+       </infos>
+Dimensións       <Text nLength="10" nType="PortionType::Para" nHeight="276" nWidth="1147" Portion="Dimensi&#xF3;ns"/>
+       <LineBreak nWidth="1147" Line="Dimensi&#xF3;ns"/>
+       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x55b9c1ab28b0" id="268" symbol="10SwRowFrame" next="324" prev="281" upper="17" lower="269">
+     <infos>
+      <bounds left="3619" top="8921" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+      <prtBounds left="0" top="0" width="9638" height="457"/>
+     </infos>
+     <cell ptr="0x55b9c4ccdb30" id="269" symbol="11SwCellFrame" next="271" upper="268" lower="270" rowspan="1">
+      <infos>
+       <bounds left="3619" top="8921" width="4819" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="55" top="65" width="4709" height="337"/>
+      </infos>
+      <txt ptr="0x55b9c1af9a30" id="270" symbol="11SwTextFrame" upper="269" txtNodeIndex="82" WritingMode="Horizontal">
+       <infos>
+        <bounds left="3674" top="8986" width="4709" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="4709" height="276"/>
+       </infos>
+477 x 220 x 486mm (DWH)       <Text nLength="23" nType="PortionType::Para" nHeight="276" nWidth="2727" Portion="477 x 220 x 486mm (DWH)"/>
+       <LineBreak nWidth="2727" Line="477 x 220 x 486mm (DWH)"/>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x55b9c4cc6a10" id="271" symbol="11SwCellFrame" prev="269" upper="268" lower="272" rowspan="1">
+      <infos>
+       <bounds left="8438" top="8921" width="4819" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="55" top="65" width="4709" height="337"/>
+      </infos>
+      <txt ptr="0x55b9c1a78400" id="272" symbol="11SwTextFrame" upper="271" txtNodeIndex="85" WritingMode="Horizontal">
+       <infos>
+        <bounds left="8493" top="8986" width="4709" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="4709" height="276"/>
+       </infos>
+476 x 234 x 485 mm (DWH)       <Text nLength="24" nType="PortionType::Para" nHeight="276" nWidth="2787" Portion="476 x 234 x 485 mm (DWH)"/>
+       <LineBreak nWidth="2787" Line="476 x 234 x 485 mm (DWH)"/>
+       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x55b9c1a7a350" id="324" symbol="10SwRowFrame" next="294" prev="268" upper="17" lower="325">
+     <infos>
+      <bounds left="3619" top="9378" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+      <prtBounds left="0" top="0" width="9638" height="457"/>
+     </infos>
+     <cell ptr="0x55b9c4d0fc30" id="325" symbol="11SwCellFrame" upper="324" lower="326" rowspan="1">
+      <infos>
+       <bounds left="3619" top="9378" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="55" top="65" width="9528" height="337"/>
+      </infos>
+      <txt ptr="0x55b9c4d49a70" id="326" symbol="11SwTextFrame" upper="325" txtNodeIndex="88" WritingMode="Horizontal">
+       <infos>
+        <bounds left="3674" top="9443" width="9528" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="9528" height="276"/>
+       </infos>
+Tipo de torre       <Text nLength="13" nType="PortionType::Para" nHeight="276" nWidth="1245" Portion="Tipo de torre"/>
+       <LineBreak nWidth="1245" Line="Tipo de torre"/>
+       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x55b9c4c9bb90" id="294" symbol="10SwRowFrame" next="327" prev="324" upper="17" lower="295">
+     <infos>
+      <bounds left="3619" top="9835" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+      <prtBounds left="0" top="0" width="9638" height="457"/>
+     </infos>
+     <cell ptr="0x55b9c4d68780" id="295" symbol="11SwCellFrame" next="297" upper="294" lower="296" rowspan="1">
+      <infos>
+       <bounds left="3619" top="9835" width="4819" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="55" top="65" width="4709" height="337"/>
+      </infos>
+      <txt ptr="0x55b9c4d31c70" id="296" symbol="11SwTextFrame" upper="295" txtNodeIndex="91" WritingMode="Horizontal">
+       <infos>
+        <bounds left="3674" top="9900" width="4709" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="4709" height="276"/>
+       </infos>
+Mid Tower (torre media)        <Text nLength="24" nType="PortionType::Para" nHeight="276" nWidth="2445" Portion="Mid Tower (torre media) "/>
+       <LineBreak nWidth="2445" Line="Mid Tower (torre media) "/>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x55b9c4d104b0" id="297" symbol="11SwCellFrame" prev="295" upper="294" lower="298" rowspan="1">
+      <infos>
+       <bounds left="8438" top="9835" width="4819" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="55" top="65" width="4709" height="337"/>
+      </infos>
+      <txt ptr="0x55b9c4d31b40" id="298" symbol="11SwTextFrame" upper="297" txtNodeIndex="94" WritingMode="Horizontal">
+       <infos>
+        <bounds left="8493" top="9900" width="4709" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="4709" height="276"/>
+       </infos>
+Mid Tower (Torre media)       <Text nLength="23" nType="PortionType::Para" nHeight="276" nWidth="2448" Portion="Mid Tower (Torre media)"/>
+       <LineBreak nWidth="2448" Line="Mid Tower (Torre media)"/>
+       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x55b9c4d51700" id="327" symbol="10SwRowFrame" next="314" prev="294" upper="17" lower="328">
+     <infos>
+      <bounds left="3619" top="10292" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+      <prtBounds left="0" top="0" width="9638" height="457"/>
+     </infos>
+     <cell ptr="0x55b9c4d49d10" id="328" symbol="11SwCellFrame" upper="327" lower="329" rowspan="1">
+      <infos>
+       <bounds left="3619" top="10292" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="55" top="65" width="9528" height="337"/>
+      </infos>
+      <txt ptr="0x55b9c4d10f00" id="329" symbol="11SwTextFrame" upper="328" txtNodeIndex="97" WritingMode="Horizontal">
+       <infos>
+        <bounds left="3674" top="10357" width="9528" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="9528" height="276"/>
+       </infos>
+Materiais       <Text nLength="9" nType="PortionType::Para" nHeight="276" nWidth="906" Portion="Materiais"/>
+       <LineBreak nWidth="906" Line="Materiais"/>
+       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x55b9c4cd3fd0" id="314" symbol="10SwRowFrame" next="350" prev="327" upper="17" lower="315">
+     <infos>
+      <bounds left="3619" top="10749" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+      <prtBounds left="0" top="0" width="9638" height="457"/>
+     </infos>
+     <cell ptr="0x55b9c4d6f880" id="315" symbol="11SwCellFrame" next="317" upper="314" lower="316" rowspan="1">
+      <infos>
+       <bounds left="3619" top="10749" width="4819" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="55" top="65" width="4709" height="337"/>
+      </infos>
+      <txt ptr="0x55b9c4ccce00" id="316" symbol="11SwTextFrame" upper="315" txtNodeIndex="100" WritingMode="Horizontal">
+       <infos>
+        <bounds left="3674" top="10814" width="4709" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="4709" height="276"/>
+       </infos>
+Plástico e aceiro       <Text nLength="17" nType="PortionType::Para" nHeight="276" nWidth="1573" Portion="Pl&#xE1;stico e aceiro"/>
+       <LineBreak nWidth="1573" Line="Pl&#xE1;stico e aceiro"/>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x55b9c4d1ae30" id="317" symbol="11SwCellFrame" prev="315" upper="314" lower="318" rowspan="1">
+      <infos>
+       <bounds left="8438" top="10749" width="4819" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="55" top="65" width="4709" height="337"/>
+      </infos>
+      <txt ptr="0x55b9c4cc5280" id="318" symbol="11SwTextFrame" upper="317" txtNodeIndex="103" WritingMode="Horizontal">
+       <infos>
+        <bounds left="8493" top="10814" width="4709" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="4709" height="276"/>
+       </infos>
+Aceiro       <Text nLength="6" nType="PortionType::Para" nHeight="276" nWidth="653" Portion="Aceiro"/>
+       <LineBreak nWidth="653" Line="Aceiro"/>
+       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x55b9c4e18d30" id="350" symbol="10SwRowFrame" next="340" prev="314" upper="17" lower="351">
+     <infos>
+      <bounds left="3619" top="11206" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+      <prtBounds left="0" top="0" width="9638" height="457"/>
+     </infos>
+     <cell ptr="0x55b9c4e77070" id="351" symbol="11SwCellFrame" upper="350" lower="352" rowspan="1">
+      <infos>
+       <bounds left="3619" top="11206" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="55" top="65" width="9528" height="337"/>
+      </infos>
+      <txt ptr="0x55b9c4e165e0" id="352" symbol="11SwTextFrame" upper="351" txtNodeIndex="106" WritingMode="Horizontal">
+       <infos>
+        <bounds left="3674" top="11271" width="9528" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="9528" height="276"/>
+       </infos>
+Slots de expansión (nº)       <Text nLength="23" nType="PortionType::Para" nHeight="276" nWidth="2214" Portion="Slots de expansi&#xF3;n (n&#xBA;)"/>
+       <LineBreak nWidth="2214" Line="Slots de expansi&#xF3;n (n&#xBA;)"/>
+       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x55b9c1aeea40" id="340" symbol="10SwRowFrame" next="345" prev="350" upper="17" lower="341">
+     <infos>
+      <bounds left="3619" top="11663" width="9638" height="672" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+      <prtBounds left="0" top="0" width="9638" height="672"/>
+     </infos>
+     <cell ptr="0x55b9c4e3ef70" id="341" symbol="11SwCellFrame" next="343" upper="340" lower="342" rowspan="1">
+      <infos>
+       <bounds left="3619" top="11663" width="4819" height="672" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="55" top="65" width="4709" height="552"/>
+      </infos>
+      <txt ptr="0x55b9c4e88ef0" id="342" symbol="11SwTextFrame" upper="341" txtNodeIndex="109" WritingMode="Horizontal">
+       <infos>
+        <bounds left="3674" top="11728" width="4709" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="4709" height="276"/>
+       </infos>
+7       <Text nLength="1" nType="PortionType::Para" nHeight="276" nWidth="120" Portion="7"/>
+       <LineBreak nWidth="120" Line="7"/>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x55b9c4d19450" id="343" symbol="11SwCellFrame" prev="341" upper="340" lower="344" rowspan="1">
+      <infos>
+       <bounds left="8438" top="11663" width="4819" height="672" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="55" top="65" width="4709" height="552"/>
+      </infos>
+      <txt ptr="0x55b9c4e5ac30" id="344" symbol="11SwTextFrame" next="353" upper="343" txtNodeIndex="112" WritingMode="Horizontal">
+       <infos>
+        <bounds left="8493" top="11728" width="4709" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="4709" height="276"/>
+       </infos>
+7 horizontal       <Text nLength="12" nType="PortionType::Para" nHeight="276" nWidth="1153" Portion="7 horizontal"/>
+       <LineBreak nWidth="1153" Line="7 horizontal"/>
+       <Finish/>
+      </txt>
+      <txt ptr="0x55b9c4cd73b0" id="353" symbol="11SwTextFrame" prev="344" upper="343" txtNodeIndex="113" WritingMode="Horizontal">
+       <infos>
+        <bounds left="8493" top="12004" width="4709" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="4709" height="276"/>
+       </infos>
+3 vertical        <Text nLength="11" nType="PortionType::Para" nHeight="276" nWidth="960" Portion="3 vertical "/>
+       <LineBreak nWidth="960" Line="3 vertical "/>
+       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x55b9c300ba60" id="345" symbol="10SwRowFrame" prev="340" upper="17" lower="346">
+     <infos>
+      <bounds left="3619" top="12335" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+      <prtBounds left="0" top="0" width="9638" height="457"/>
+     </infos>
+     <cell ptr="0x55b9c1ad2820" id="346" symbol="11SwCellFrame" next="348" upper="345" lower="347" rowspan="1">
+      <infos>
+       <bounds left="3619" top="12335" width="4819" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="55" top="65" width="4709" height="337"/>
+      </infos>
+      <txt ptr="0x55b9c4dfa3e0" id="347" symbol="11SwTextFrame" upper="346" txtNodeIndex="116" WritingMode="Horizontal">
+       <infos>
+        <bounds left="3674" top="12400" width="4709" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="4709" height="276"/>
+       </infos>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x55b9c4d54b10" id="348" symbol="11SwCellFrame" prev="346" upper="345" lower="349" rowspan="1">
+      <infos>
+       <bounds left="8438" top="12335" width="4819" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="55" top="65" width="4709" height="337"/>
+      </infos>
+      <txt ptr="0x55b9c1af3d20" id="349" symbol="11SwTextFrame" upper="348" txtNodeIndex="119" WritingMode="Horizontal">
+       <infos>
+        <bounds left="8493" top="12400" width="4709" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="4709" height="276"/>
+       </infos>
+       <Finish/>
+      </txt>
+     </cell>
+    </row>
+   </tab>
+   <txt ptr="0x55b9c3195e10" id="15" symbol="11SwTextFrame" prev="17" upper="2" txtNodeIndex="122" WritingMode="Horizontal">
+    <infos>
+     <bounds left="3619" top="12802" width="9638" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+  </body>
+ </page>
+</root>
