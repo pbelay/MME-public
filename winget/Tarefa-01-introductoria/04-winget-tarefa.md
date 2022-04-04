@@ -13,23 +13,23 @@
 - Abre o terminal de powershell en modo administrador.
 ## Tarefa 1 
 
-1. Revisa os repositorios que emprega winget e mostrao nunha lista.
+1. Revisa os repositorios que emprega winget e mostraos nunha lista.
 > winget source list 
 
-2. Mostra a información detallada do repositorio etiquetado co nome "winget
+2. Mostra a información detallada do repositorio etiquetado co nome "winget"
 > winget source list winget
 > winget source list -name winget
 
 3. Engade o repositorio winget dispoñible na seguinte url "https://nexus3.onap.org/" e que teña como nome "Nexus3" 
 > winget source add --name Nexus3 https://nexus3.onap.org/
 
-4. Actualiza todos os respositorios. 
+4. Actualiza todos os repositorio. 
 >winget source update
 
 5. Elimina o anterior repositorio que engadiches.
 > winget source remove --name Nexus3
 
-6. Busca o id da apliación Microsoft Teams
+6. Busca o id da aplicación Microsoft Teams
 > winget search Teams
 
 7. Instala  a aplicación de Microsoft Teams
@@ -51,7 +51,7 @@
 > winget show --id=Microsoft.Teams -e
 
 ## Tarefa 2 
-Restaura a máquina virtual ao estado inicial e realiza a instalación das aplicacions previas empregando o ficheiro exportado no exercicio anterior.
+Restaura a máquina virtual ao estado inicial e realiza a instalación das aplicacións previas empregando o ficheiro exportado no exercicio anterior.
 > winget import  --import-file "PabloBelay.json" 
 
 ## Tarefa 3
@@ -66,12 +66,12 @@ Restaura a máquina virtual ao estado inicial e realiza un script en powershell 
 
 ```ps1
 #Script en Powershell 
-winget install --id=Notepad++.Notepad++ -e  ; 
-winget install --id=RARLab.WinRAR -e  ;
+ winget install --id=Zoom.Zoom -e 
  winget install --id=GIMP.GIMP -e  ; 
+ winget install --id=Notepad++.Notepad++ -e  ; 
+ winget install --id=RARLab.WinRAR -e  ;
  winget install --id=VideoLAN.VLC -e  ; 
  winget install --id=Audacity.Audacity -e  ; 
- winget install --id=Zoom.Zoom -e 
 
 ```
 
@@ -93,16 +93,16 @@ winget install --id=Notepad++.Notepad++ -e  && winget install --id=RARLab.WinRAR
 Outra posible solución:
 ```ps1
 #Script en CMD 
+  winget install --id=Zoom.Zoom -e 
+  winget install --id=GIMP.GIMP -e  
   winget install --id=Notepad++.Notepad++ -e  
   winget install --id=RARLab.WinRAR -e  
-  winget install --id=GIMP.GIMP -e  
   winget install --id=VideoLAN.VLC -e 
   winget install --id=Audacity.Audacity -e  
-  winget install --id=Zoom.Zoom -e 
 ```
 
 ## Tarefa 5
-Realiza o ficheiro de exportacion (json) para instalar as seguintes aplicacións:
+Realiza o ficheiro de exportación (json) para instalar as seguintes aplicacións:
 - Zoom (Programa de videoconferencias)
 - Gimp (Editor fotográfico)
 - Notepad++

@@ -303,7 +303,7 @@ winget install --id=Microsoft.OneDrive -e
 ```
 
 ## Ferramentas externas
-Existe ferramentas externas que permite crear os "paquetes" de aplicacións máis populares. Os proxectos máis famosos son:
+Existe ferramentas online que permite crear os "paquetes" de aplicacións máis populares. Os proxectos máis famosos son:
 * [Winstall.app](https://winstall.app/)
 * [Winget.rum](https://winget.run/)
 
@@ -312,7 +312,7 @@ Existe ferramentas externas que permite crear os "paquetes" de aplicacións mái
 ##  winget-create
 O Windows Package Manager Manifest Creator é unha ferramenta de código aberto deseñada para axudar aos desenvolvedores a crear, actualizar e enviar ficheiros de manifesto ao repositorio do Windows Package Manager.
 
-Os desenvolvedores usarán esta ferramenta para enviar as súas aplicacións para usar co Xestor de paquetes de Windows.
+Os desenvolvedores usarán esta ferramenta para enviar as súas aplicacións para usar  o xestor de paquetes de Windows.
 
 
 Pódes consultar más información en:

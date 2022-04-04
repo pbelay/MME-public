@@ -1,24 +1,30 @@
+- [Tarefa Winget](#tarefa-winget)
+  - [Pasos previos](#pasos-previos)
+  - [Tarefa 1](#tarefa-1)
+  - [Tarefa 2](#tarefa-2)
+  - [Tarefa 3](#tarefa-3)
+  - [Tarefa 4](#tarefa-4)
+  - [Tarefa 5](#tarefa-5)
 # Tarefa Winget
 
 ## Pasos previos
 - Realiza unha instantanea da máquina virtual. 
 - Verifica que tes instalado winget. 
 - Abre o terminal de powershell en modo administrador.
-## Enunciado 1 
+## Tarefa 1 
 
-1. Revisa os repositorios que emprega winget e mostrao nunha lista.
+1. Revisa os repositorios que emprega winget e mostraos nunha lista.
 
-2. Mostra a información detallada do repositorio etiquetado co nome "winget
+2. Mostra a información detallada do repositorio etiquetado co nome "winget"
 
 
 3. Engade o repositorio winget dispoñible na seguinte url "https://nexus3.onap.org/" e que teña como nome "Nexus3" 
 
-
-4. Actualiza todos os respositorios. 
+4. Actualiza todos os repositorio. 
 
 5. Elimina o anterior repositorio que engadiches.
 
-6. Busca o id da apliación Microsoft Teams
+6. Busca o id da aplicación Microsoft Teams
 
 7. Instala  a aplicación de Microsoft Teams
 
@@ -28,12 +34,12 @@
 
 10. Desinstala a aplicación Discord 
 
-11. Exporta a configuración existente nun ficheiro json co nome teu concatenado ao teu apelido. Por exemplo Pablo Belay serían **PabloBelay.json" .
+11. Exporta a configuración existente nun ficheiro json co nome teu concatenado ao teu apelido. Por exemplo Pablo Belay sería **PabloBelay.json** .
 
 12. Amosa os metadatos da aplicación que instalaches previamente chamada  Microsoft.Teams
 
 ## Tarefa 2 
-Restaura a máquina virtual ao estado inicial e realiza a instalación das aplicacions previas empregando o ficheiro exportado no exercicio anterior.
+Restaura a máquina virtual ao estado inicial e realiza a instalación das aplicacións previas empregando o ficheiro exportado no exercicio anterior.
 
 ## Tarefa 3
 Restaura a máquina virtual ao estado inicial e realiza un script en powershell para instalar as seguintes aplicacións:
@@ -54,10 +60,8 @@ Restaura a máquina virtual ao estado inicial e realiza un script en Batch para 
 - VLC media Player
 - Audacity
 
-
-
 ## Tarefa 5
-Realiza o ficheiro de exportacion (json) para instalar as seguintes aplicacións:
+Realiza o ficheiro de exportación (json) para instalar as seguintes aplicacións:
 - Zoom (Programa de videoconferencias)
 - Gimp (Editor fotográfico)
 - Notepad++
