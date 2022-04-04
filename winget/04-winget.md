@@ -108,7 +108,7 @@ Permítenos ver as fontes onde poderá consultar e descargar as aplicacións a f
   > winget source add 
   > winget source add --name Contoso https://www.contoso.com/cache
 
-* Actualizar  a información ofrecida polos repos. 
+* Actualizar  a información ofrecida polos repositorios. 
   > winget source update 
 
 * Eliminar un repositorio
@@ -119,7 +119,7 @@ Para realizar a búsqueda de programas teremos que empregar o comando **search**
 > winget search fire 
 
 Outro exemplo para buscar o chrome:
-> winget search chrom
+> winget search chrome
 
 Outro exemplo o VLC;
 > winget search vlc 
@@ -138,7 +138,7 @@ Unha vez que localizamos o **id** da aplicación podemos consultar información 
 * Web.
 * Licenza.
 * ...
-Uns exemplos de usro serían:
+Uns exemplos de uso serían:
 > winget show VideoLan.VLC
 > winget show Google.Chrome
 > winget show Mozilla.Firefox
@@ -152,7 +152,7 @@ A sintaxe do comando [install] (https://docs.microsoft.com/es-es/windows/package
 
 > winget install [[-q] \<query>] [\<options>]
 
-Previamente é preciso empregar o comando **search** para logalizar o identifcador. 
+Previamente é preciso empregar o comando **search** para localizar o identifcador. 
 
 Exemplo de instalación de Firefox: 
 
@@ -171,14 +171,14 @@ Para elo empregaremos o comando **list**
 > winget upgrade. 
 
 
-Actualiza a apliacación pasada como parámetro.
+Actualiza a aplicación pasada como parámetro.
 > winget  upgrade VideoLan.VLC
 
 Actualiza todas as aplicacións instaladas. 
 > winget upgrade --all 
 
 ## Desinstalar Aplicación
-Permite desinstalar unha aplicación a forma máis habitual de empregalo e utilizar a seleción por **--name** e por **--id** 
+Permite desinstalar unha aplicación a forma máis habitual de empregalo e utilizar a selección por **--name** e por **--id** 
 
 Sintaxe básica:
 > winget uninstall [[-q] \<query>] [\<options>]
@@ -315,7 +315,7 @@ O Windows Package Manager Manifest Creator é unha ferramenta de código aberto 
 Os desenvolvedores usarán esta ferramenta para enviar as súas aplicacións para usar  o xestor de paquetes de Windows.
 
 
-Pódes consultar más información en:
+Podes consultar máis información en:
 * [Repositorio GitHub ](https://github.com/microsoft/winget-create)
 * [Documentación de Microsoft](https://docs.microsoft.com/en-us/windows/package-manager/)
 * [Documentación de Microsoft - Exemplo de manifest](https://docs.microsoft.com/en-us/windows/package-manager/package/manifest?tabs=minschema%2Cversion-example)
